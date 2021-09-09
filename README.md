@@ -1,4 +1,4 @@
-# cookie-clicker-breeze-cursor
+# 🍪 Cookie Clicker Breeze Cursor
  Breeze cursor mod for the legendary idle game Cookie Clicker!
 
 ## How to install:
