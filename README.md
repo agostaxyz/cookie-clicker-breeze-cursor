@@ -1,9 +1,9 @@
-# 🍪 Cookie Clicker Breeze Cursor
- Breeze cursor mod for the legendary idle game Cookie Clicker!
+# Breeze cursor mod for Cookie Clicker  
+Breeze cursor mod for the legendary idle game Cookie Clicker!  
 
-## How to install:
+## 🍪 How to install:
 ### Steam:
-This is the easier way, if you own Cookie Clicker on Steam just subscribe at https://steamcommunity.com/sharedfiles/filedetails/?id= and restart your game.
+This is the easier method, if you own Cookie Clicker on Steam just subscribe at https://steamcommunity.com/sharedfiles/filedetails/?id= and restart your game.
 
 ### Browser:
 If you play the traditional way, go to the game website and open your browser console, usualy F12 or rightclick and search for "inspect element", "inspect" or maybe  "console", then copy, paste and submit the following code:  
