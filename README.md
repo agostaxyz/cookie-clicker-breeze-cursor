@@ -1,6 +1,8 @@
 # Breeze cursor mod for Cookie Clicker  
-Breeze cursor mod for the legendary idle game Cookie Clicker!  
-
+Use KDE's Breeze dark and light cursors on Cookie Clicker!  
+<a href="https://raw.githubusercontent.com/Coldsaga/agostacookie-clicker-breeze-cursor/preview.png">
+<img width="300px" aign="right" src="preview.jpg" alt="in-game preview"/></a>
+(click the image to view it in full size)  
 ## 🍪 How to install:
 ### Steam:
 This is the easier method, if you own Cookie Clicker on Steam just subscribe at https://steamcommunity.com/sharedfiles/filedetails/?id= and restart your game.
