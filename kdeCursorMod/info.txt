@@ -1,0 +1,11 @@
+{
+	"Name": "Kde Breeze Cursor Mod",
+	"ID": "cooler sample mod",
+	"Author": "Coldsaga",
+	"Description": "It changes your cursor to fit KDE's Plasma desktop breeze cursor.",
+	"ModVersion": 1,
+	"GameVersion": 2.042,
+	"Date": "09/09/2021",
+	"Dependencies": [],
+	"Disabled": 1
+}
