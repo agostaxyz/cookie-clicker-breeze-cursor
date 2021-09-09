@@ -1,7 +1,7 @@
 # Breeze cursor mod for Cookie Clicker  
 Use KDE's Breeze dark and light cursors on Cookie Clicker!  
-<a href="https://raw.githubusercontent.com/Coldsaga/cookie-clicker-breeze-cursor/main/preview.png">
-<img width="300px" aign="right" src="preview.jpg" alt="in-game preview"/></a>  
+<a href="https://raw.githubusercontent.com/Coldsaga/cookie-clicker-breeze-cursor/main/preview.jpg">
+<img width="300px" src="preview.jpg" alt="in-game preview"/></a>  
 (click the image to view it in full size)  
 ## 🍪 How to install:
   
