@@ -9,9 +9,10 @@ Use KDE's Breeze dark and light cursors on Cookie Clicker!
 This is the easier method, if you own Cookie Clicker on Steam just subscribe at https://steamcommunity.com/sharedfiles/filedetails/?id= and restart your game.
 
 ### Manually: ✅
+This is not guaranteed but will probably work in the mobile version or any other store like Itch.io or Epic Games
 1. Download this repo.  
 2. Go to the game exec folder, then resources/app/mods/local.
-3. Move or copy "breeze-cursorMod" folder there.  
+3. Move "breeze-cursorMod" folder in there.  
 
 ### Browser: (❌ not working yet)
 If you play the traditional way, go to the game website and open your browser console, usualy F12 or rightclick and search for "inspect element", "inspect" or maybe  "console", then copy, paste and submit the following code:  
