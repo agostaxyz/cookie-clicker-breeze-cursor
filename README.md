@@ -4,20 +4,17 @@ Use KDE's Breeze dark and light cursors on Cookie Clicker!
 <img width="300px" src="preview.jpg" alt="in-game preview"/>
 </a>  
 (click the image above to view it in full size)  
-  
-## 🍪 How to install:
-  
+
+## Installation
+
 ### Steam Workshop:
 ❌ Steam Workshot is not available yet for Cookie Clicker.  
 <!-- This is the easier method, if you own Cookie Clicker on Steam just subscribe at https://steamcommunity.com/sharedfiles/filedetails/?id= and restart your game. --->
 
-### Manually:
-This is not guaranteed but will probably work in the mobile version or any other store like Itch.io or Epic Games
-1. Download this repo.  
-2. Go to the game exec folder, then resources/app/mods/local.
-3. Move "breeze-cursorMod" folder in there.  
+### <a href="https://github.com/klattmose/CookieClickerModManager"> Cookie Clicker Mod Manager (CCMM)</a>:  
+Just add the following code to the extension:  
+`````https://raw.githubusercontent.com/Coldsaga/cookie-clicker-breeze-cursor/main/ccmm.js`````
 
-<!--
-### Browser:
-If you play the traditional way, go to the game website and open your browser console, usualy F12 or rightclick and search for "inspect element", "inspect" or maybe  "console", then copy, paste and submit the following code:  
--->
+### Javascript Bookmark:  
+No tutorial because it's browser specific and could be depriciated in the future, just do some quick research you will it can be done in less than 5 minutes, then add the following code to .  
+`````Game.Loader.Replace('cursor.png',src="https://raw.githubusercontent.com/Coldsaga/cookie-clicker-breeze-cursor/main/breeze-cursorMod/cursor.png");`````
